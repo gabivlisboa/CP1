@@ -30,5 +30,47 @@ p{
     font-family: poppins;
 }
 
+.box {
+    width: 357px;
+    height: 167px;
+    margin: 74px;
+    border-radius: 3%;
+    border: 3px solid #064661;
+   
+}
+
+.box-1 { background-color: #99BEDF; }
+.box-2 { background-color: rgba(6, 70, 97, 0.7); }
+.box-3 { background-color: #99BEDF; }
+
+h3{
+    padding: 31px;
+    color: #262626;
+    font-family: limelight;
+   
+}
+#meio{
+    color: #ffffff;
+    padding: 31px;
+    font-family: limelight;
+}
+
+#txt{
+   
+    color: #064661;
+    font-family: poppins;
+    padding: 31px;
+    margin-top: -46px;  
+  
+}
+#meio-preco{
+    color: #ffffff;
+    padding: 31px;
+    font-family: poppins;  
+    margin-top: -46px;  
+}
+
+
+
 
 
