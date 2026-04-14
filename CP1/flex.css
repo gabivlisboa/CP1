@@ -30,5 +30,15 @@
     justify-content: center;
 }
 
+.itens p {
+    display: flex;
+    align-items: left;
+    gap: 8px;
+    margin: 4px 0;
+    margin-left: 0px;
+    padding-left: 0px;
+    padding: 0px 74px ;
+    padding-bottom: 5px;
 
+}
 
